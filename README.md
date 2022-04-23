@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aly</h1>
-<h3 align="center">ِEnthusiastic about Machine Learning and artificial Intelliegence</h3>
+<h3 align="center">ِEnthusiastic About Machine Learning and Artificial Intelliegence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedaly22&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedaly22" /> </p>
 

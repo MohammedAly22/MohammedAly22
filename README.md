@@ -14,7 +14,7 @@ Welcome to my corner of the GitHub universe! I'm a recent computer science gradu
 
 My GitHub profile is a hub for my personal projects, ranging from experimental NLP models to machine learning-powered art. When I'm not coding, I'm often found buried in a book on AI or linguistics, or exploring the great outdoors. I'm always on the lookout for new opportunities to learn and grow, so feel free to connect with me, and let's see where our curiosity can take us!
 
-- ⚡ I'm currently reading [**Practical Statistics For Data Science**](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+- ⚡ I'm currently reading [**Mathematics for Machine Learning**](https://mml-book.github.io/book/mml-book.pdf)
 
 ###
 

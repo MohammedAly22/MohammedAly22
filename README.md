@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-    「 Machine Learning Enginner」
+    「 Machine Learning Enginner | NLP | LLMs」
   </samp>
 </p>
 

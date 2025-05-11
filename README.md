@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-    「 Machine Learning Enginner | NLP | LLMs 」
+    「 Generative AI Engineer | LLMs | Agents 」
   </samp>
 </p>
 

@@ -10,9 +10,9 @@
   </samp>
 </p>
 
-Welcome to my corner of the GitHub universe! I'm a recent computer science graduate with a passion for exploring the vast and exciting worlds of machine learning and natural language processing (NLP). From chatbots to sentiment analysis and beyond, I'm always eager to dive into the latest techniques and algorithms to uncover new insights and solve complex problems.
+Welcome to my corner of the GitHub universe! I'm an AI Engineer with 1+ years of experience building and deploying production-ready AI tools across NLP, LLMs, Computer Vision, and tabular data. Specializing in end-to-end development of GPT-powered solutions, vector database pipelines, and LangChain-based web applications. Proven track record in delivering AI systems from prototype to real-world deployment using modern frameworks like HuggingFace, PyTorch, and Azure ML.
 
-My GitHub profile is a hub for my personal projects, ranging from experimental NLP models to machine learning-powered art. When I'm not coding, I'm often found buried in a book on AI or linguistics, or exploring the great outdoors. I'm always on the lookout for new opportunities to learn and grow, so feel free to connect with me, and let's see where our curiosity can take us!
+My GitHub profile is a hub for my projects, ranging from experimental NLP models to machine learning-powered art. When I'm not coding, I'm often found buried in a book on AI or linguistics, or exploring the great outdoors. I'm always on the lookout for new opportunities to learn and grow, so feel free to connect with me, and let's see where our curiosity can take us!
 
 ###
 
